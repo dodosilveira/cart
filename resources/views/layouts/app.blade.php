@@ -14,7 +14,7 @@
     <link rel="shortcut icon" href="{{ asset('images/favicon.ico') }}">
 
     <!--Morris Chart CSS -->
-    <link rel="stylesheet" href="{{ asset('plugins/morris/morris.css') }}">
+    {{-- <link rel="stylesheet" href="{{ asset('plugins/morris/morris.css') }}"> --}}
 
     <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet" type="text/css">
     <link href="{{ asset('css/icons.css') }}" rel="stylesheet" type="text/css">
@@ -63,11 +63,11 @@
     <script src="{{ asset('plugins/peity/jquery.peity.min.js') }}"></script>
 
     <!--Morris Chart-->
-    <script src="{{ asset('plugins/morris/morris.min.js') }}"></script>
+    {{-- <script src="{{ asset('plugins/morris/morris.min.js') }}"></script> --}}
     <script src="{{ asset('plugins/raphael/raphael-min.js') }}"></script>
 
     <!-- dashboard -->
-    <script src="{{ asset('pages/dashboard.js') }}"></script>
+    {{-- <script src="{{ asset('pages/dashboard.js') }}"></script> --}}
     <script src="{{ asset('js/app.js') }}"></script>
 
 </body>

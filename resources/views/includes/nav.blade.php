@@ -72,7 +72,7 @@
                 </li>
 
                 <li class="has_sub">
-                    <a href="javascript:void(0);" class="waves-effect"><i class="dripicons-graph-pie"></i><span> Charts </span> <<span class="badge badge-info badge-pill float-right">12</span></a>
+                    <a href="javascript:void(0);" class="waves-effect"><i class="dripicons-graph-pie"></i><span> Charts </span> <span class="badge badge-info badge-pill float-right">12</span></a>
                     <ul class="list-unstyled">
                         <li><a href="charts-morris.html">Morris Chart</a></li>
                         <li><a href="charts-chartist.html">Chartist Chart</a></li>

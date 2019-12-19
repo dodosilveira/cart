@@ -4,7 +4,7 @@
     <div class="topbar-left d-none d-lg-block">
         <div class="text-center">
             
-            <a href="index.html" class="logo"><img src="{{ asset('images/logo10.png') }}" height="40" alt="logo"></a>
+            <a href="/home" class="logo"><img src="{{ asset('images/logo10.png') }}" height="40" alt="logo"></a>
         </div>
     </div>
 
